@@ -1,0 +1,6 @@
+---
+myhosts:
+  hosts:
+    192.168.43.107:
+      ansible_user: yen
+
